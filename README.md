@@ -7,7 +7,7 @@ This project is written using PySpark and Scala. <br />
 This is the Amazon review data downloaded from http://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences. This dataset was created for the Paper 'From Group to Individual Labels using Deep Features', Kotzias et. al,. KDD 2015.
 
 ###  amazon review pyspark.html <br /> 
-This HTML notebook shows the data analysis and modeling by using PySpark. I use Spark 2.1.1 provided by Databricks.
+This HTML notebook shows the data analysis and modeling by using PySpark. I use Spark 2.1.1 provided by Databricks.<br />
 Web address:  https://graceofgod.github.io/Amazon-review-classification-with-SparkML-/amazon%20review%20pyspark%20.html
 
 ### amazon review scala.html<br /> 
