@@ -1,6 +1,5 @@
-
-
 # Amazon Reviews Classification with SparkML  
+As many companies create more volumes and varieties of data, there is a growing need for a framework to process and analyze large-scale datasets with parallel and distributed algorithms. Apache Spark is a fast and efficient cluster framework that uses Resilient Distributed Dataset (RDD) to partition large datasets and allows parallel and fast computation of data processing in memory. 
 In this project, I apply the Apache Spark framework to perform text classification of Amazon reviews by Spark ML. This projects demonstrates sentiment analysis of Amazon review data by developing Logistic Regression, Naïve Bayes, Decision Tree, Random Forest, and Gradient Boosted Tree classifiers. I compare the performance of these classifiers by evaluating the classification accuracy. 
 This project is written using PySpark and Scala. <br />
 
