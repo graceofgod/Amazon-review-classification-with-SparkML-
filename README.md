@@ -12,6 +12,6 @@ Web address: <br />
 https://graceofgod.github.io/Amazon-review-classification-with-SparkML-/amazon%20review_pyspark%20.html
 
 ### amazon review_scala.html<br /> 
-This HTML notebook shows the data analysis and modeling written by Scala. I use Spark 2.1.1 provided by Databricks.
+This HTML notebook shows the data analysis and modeling written by Scala. I use Spark 2.1.1 provided by Databricks. <br />
 Web address: <br />
 https://graceofgod.github.io/Amazon-review-classification-with-SparkML-/amazon%20review_scala.html
